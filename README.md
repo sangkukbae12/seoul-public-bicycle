@@ -6,8 +6,11 @@
 
 ![](https://i.imgur.com/jXZZyNz.png)
 
+![](https://i.imgur.com/s8gnVx1.gif)
 - 거치대 위치를 Scatterplot으로 표시함
 - 대여소 주소 및 거치대수를 툴팁으로 표시함
+
+
 
 ## 사용한 기술
 
