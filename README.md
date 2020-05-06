@@ -2,12 +2,12 @@
 
 > 서울시 행정구역 별로 따릉이 거치대 위치 및 거치대수를 확인 할 수 있습니다.
 
-## 전체 화면
-
-![](https://i.imgur.com/jXZZyNz.png)
-
+## 데모 화면
+![](https://i.imgur.com/s8gnVx1.gif)
 - 거치대 위치를 Scatterplot으로 표시함
 - 대여소 주소 및 거치대수를 툴팁으로 표시함
+
+
 
 ## 사용한 기술
 
