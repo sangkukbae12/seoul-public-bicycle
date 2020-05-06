@@ -2,6 +2,7 @@ import React, { useContext } from 'react';
 import Map from './components/Map';
 import Controls from './components/Controls';
 import { MapContext } from './context';
+import 'mapbox-gl/src/css/mapbox-gl.css';
 import './App.css';
 
 function App() {

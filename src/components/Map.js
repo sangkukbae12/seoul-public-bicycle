@@ -2,7 +2,6 @@ import React from 'react';
 import MapGL from 'react-map-gl';
 import { Spring } from 'react-spring/renderprops';
 import Layers from './Layers';
-import 'mapbox-gl/src/css/mapbox-gl.css';
 
 export default function Map({
   width,
